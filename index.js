@@ -22,6 +22,6 @@ return ++n
 }
 
 function dec(n){
-  var n 
+  var n
   return --n 
 }
