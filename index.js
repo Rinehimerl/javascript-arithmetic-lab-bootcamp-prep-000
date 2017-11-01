@@ -31,7 +31,6 @@ function makeInt(n){
   parseInt(n)
 }
 
-function makeInt(n){
-  var n
-  parseInt('n', 10)
+function makeInt('n'){
+  return parseInt('n',10)
 }
