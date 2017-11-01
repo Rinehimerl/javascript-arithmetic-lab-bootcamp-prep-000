@@ -23,10 +23,10 @@ return ++n
 
 function dec(n){
   var n
-  return --n 
+  return --n
 }
 
 function makeInt(n){
-  var n 
+  var n
   parseInt(n)
 }
